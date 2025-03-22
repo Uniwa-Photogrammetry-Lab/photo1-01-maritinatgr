@@ -1,3 +1,6 @@
+# Μαρία-Κωνσταντίνα Ταγάρα 
+# 23391088
+# Εξάμηνο 4ο 
 # :wave: The Basics of GitHub 
 
 ## 🤓 Course overview and learning outcomes 
